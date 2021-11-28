@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498263522310",
+    "project_id": "bayer-73a5f",
+    "storage_bucket": "bayer-73a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498263522310:android:f70e48d4bc3f5f55d8d787",
+        "android_client_info": {
+          "package_name": "com.example.bayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498263522310-6iri6f3pkv7f8c83jn02qeeegg2dibso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFApBSP2-xgziq9UnsEXxRG-gBmfE5UOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498263522310-6iri6f3pkv7f8c83jn02qeeegg2dibso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
