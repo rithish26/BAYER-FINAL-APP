@@ -1,7 +1,6 @@
-# bayer-1
+# Bayer App : Solution Of multipurpose needs
 # APK FILE: https://drive.google.com/file/d/1u-2NABekwEIk3Q0sYBgrHWPUCLlXEkOp/view?usp=sharing
 
-Bayer App : Solution Of multipurpose needs
 
 Problem Statement :
 To build a prototype that can be used to scan/read the digital label for getting complete information about the product like usage, disposal, etc. And also prototype can be used to track the product, meet the delivery deadlines, and take the feedback and complaints or doubts regarding the specific product. Finally, it is important for the prototype to address how we will be treating the data, which can come from different formats and applications
