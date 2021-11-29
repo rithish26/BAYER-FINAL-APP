@@ -6,6 +6,20 @@ https://drive.google.com/drive/folders/1y_GPbSZOA8s6v1SO94yD8J2jzQPCwrfq?usp=sha
 Place this folder in the drive id which is linked with Google Collab.
 
 
+
+https://user-images.githubusercontent.com/80595287/143813089-0b4f4cca-2228-4f18-8018-0eb5ab2da52e.mp4
+
+![WhatsApp Image 2021-11-29 at 9 11 08 AM](https://user-images.githubusercontent.com/80595287/143813139-91159501-74e8-4408-a54e-7ad327981d76.jpeg)
+![WhatsApp Image 2021-11-29 at 9 11 09 AM (1)](https://user-images.githubusercontent.com/80595287/143813146-897ad99c-3c07-4f7f-b9b9-474bdb33d9f7.jpeg)
+![WhatsApp Image 2021-11-29 at 9 11 09 AM](https://user-images.githubusercontent.com/80595287/143813147-7503eacb-c8d0-4f46-98c3-d260051aa307.jpeg)
+![WhatsApp Image 2021-11-29 at 9 11 10 AM (1)](https://user-images.githubusercontent.com/80595287/143813148-8ccb1005-1ccf-4ba9-ac31-f406665ae2dc.jpeg)
+![WhatsApp Image 2021-11-29 at 9 11 10 AM (2)](https://user-images.githubusercontent.com/80595287/143813151-511110a4-4410-4f8a-9139-6aeb6a72f056.jpeg)
+![WhatsApp Image 2021-11-29 at 9 11 10 AM](https://user-images.githubusercontent.com/80595287/143813153-a170fccf-1eef-49dd-aacf-cd1207a57dc7.jpeg)
+![WhatsApp Image 2021-11-29 at 9 11 11 AM (1)](https://user-images.githubusercontent.com/80595287/143813157-1222a6ae-9359-46dd-ad1f-8222d4cadf8b.jpeg)
+![WhatsApp Image 2021-11-29 at 9 11 11 AM](https://user-images.githubusercontent.com/80595287/143813158-1c786f37-726d-4ce1-91e4-51fe113f5abf.jpeg)
+
+
+
 Problem Statement :
 To build a prototype that can be used to scan/read the digital label for getting complete information about the product like usage, disposal, etc. And also prototype can be used to track the product, meet the delivery deadlines, and take the feedback and complaints or doubts regarding the specific product. Finally, it is important for the prototype to address how we will be treating the data, which can come from different formats and applications
 
